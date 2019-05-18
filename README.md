@@ -1,4 +1,4 @@
 # helloworld
 learn github for purpose
-creating a new branch is quick and simple.
-add merge --no-ff
+creating a new branch is quick and simple.git
+git merge --no-ff -m "add merge" dev
