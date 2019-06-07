@@ -1,6 +1,5 @@
 # helloworld
 learn github for purpose
-<<<<<<< HEAD
 creating a new branch is quick and simple.
 add merge --no-ff
 这是我在本地修改的内容
